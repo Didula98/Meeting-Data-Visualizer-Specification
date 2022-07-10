@@ -15,6 +15,6 @@ given.
 you may use the following static pattern of the command line arguments
 to run the program.
 
-`./prog − m − −scaled − l 10 f ile1 f ile2 f ile3 ...`
+`./prog −m −−scaled −l 10 file1 file2 file3 ...`
 
 where, -m can be changed to either -t or -p and 10 can be any positive integer.
